@@ -13,7 +13,7 @@
 - 💬 Ask me anything about **JavaScript, MERN stack, Tailwind CSS etc**
 - 🤖 Exploring basic AI tools alongside web dev
 - 📄 [Download Resume](https://github.com/Hassan-Ali362/Hassan-Ali362/raw/main/Hassan-Resume.pdf)
-- 📫 Email: **hassanalimalikk@example.com**
+- 📫 Email: **hassanalimalikk@gmail.com**
 
 ---
 
